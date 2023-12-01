@@ -1,1 +1,0 @@
-# Linkedin Bot for Applying jobs using Python.
